@@ -6,6 +6,9 @@ This is a simple calendar application that allows a user to save events for each
 
 This app runs in the browser and feature dynamically updated HTML and CSS powered by jQuery. It also uses the [Day.js](https://day.js.org/en/) library to work with date and time. 
 
+Here is the [Github](https://github.com/TheKingInYellow1/Challenge-05).
+Here is the [Deployed Site](https://thekinginyellow1.github.io/Challenge-05/).
+
 ### User Story
 
 ```md
@@ -21,7 +24,6 @@ N/A
 ## Usage
 
 Write down anything in a time slot and click the save button to backup whatever you wrote to local storage. You can clear any of the time slots by erasing all text, then saving again. 
-
 
 The following animation demonstrates the application functionality:
 
